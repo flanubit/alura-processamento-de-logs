@@ -1,3 +1,4 @@
 # Alura - Processamento de Logs
 
-Projeto de script para processamento de arquivos de logs do curso de nivelamento DevOps da Alura.
+Projeto do curso de nivelamento DevOps da Alura.
+O script faz o proessamento de arquivos de logs.
